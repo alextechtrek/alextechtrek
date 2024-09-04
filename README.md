@@ -19,9 +19,6 @@
 
 
 
-## 📊 GitHub Stats
-
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alextechtrek&show_icons=true&title_color=39FF14&text_color=FFFFFF&icon_color=800080&bg_color=D2B48C&border_color=00000000)
 
 
 
